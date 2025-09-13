@@ -7,9 +7,8 @@ then just get your worlds level.dat file and run the script and rename the level
 
 now you can put that file in the world and it will take you there :d
 
-**The next part** is edited by [(dhruv.ftp.sh) Dhruv Gowda](https://dhruv.ftp.sh)
-
 # features
+**The next part** is created by [(dhruv.ftp.sh) Dhruv Gowda](https://dhruv.ftp.sh)
 
 ✅ Command-line arguments for flexibility  
 ✅ Backup creation before saving  
